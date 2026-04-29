@@ -1,0 +1,7 @@
+MetaTrader5
+telethon
+rich
+httpx
+python-dotenv
+pandas
+numpy
