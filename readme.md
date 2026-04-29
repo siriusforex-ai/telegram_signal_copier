@@ -2,7 +2,7 @@
 
 > Monitors any Telegram signal channel, uses **Claude AI** to parse signals in any format, and automatically places trades on MetaTrader 5 with stop loss and take profit in under 3 seconds.
 
-[![YouTube Tutorial](https://img.shields.io/badge/YouTube-Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/76wGAj3WBo8)
+[![YouTube Tutorial](https://img.shields.io/badge/YouTube-Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/zutNG-eNFjI)
 [![Claude AI](https://img.shields.io/badge/Claude_AI-Powered-orange?style=for-the-badge&logo=anthropic)](https://console.anthropic.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Community-blue?style=for-the-badge&logo=telegram)](https://t.me/codepipss)
 [![Python](https://img.shields.io/badge/Python-3.12-green?style=for-the-badge&logo=python)](https://www.python.org/downloads/release/python-3129/)
@@ -14,7 +14,7 @@
 
 Watch the complete build + live demo on YouTube:
 
-▶️ **[I Built a Free AI Telegram Signal Copier Bot with Python & MetaTrader 5](https://youtu.be/76wGAj3WBo8)**
+▶️ **[I Built a Free AI Telegram Signal Copier Bot with Python & MetaTrader 5](https://youtu.be/zutNG-eNFjI)**
 
 ---
 
